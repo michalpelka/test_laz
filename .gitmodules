@@ -1,0 +1,3 @@
+[submodule "3rd/LASZip"]
+	path = 3rd/LASZip
+	url = https://github.com/LASzip/LASzip.git

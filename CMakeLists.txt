@@ -7,4 +7,4 @@ add_subdirectory(3rd/LASZip/)
 include_directories(3rd/LASZip/include)
 
 add_executable(test_las main.cpp)
-target_link_libraries(test_las laszip)
+target_link_libraries(test_las laszip3)
